@@ -629,6 +629,11 @@ landscape:
             logo: credit-karma-adopter.svg
             crunchbase: https://www.crunchbase.com/organization/credit-karma
           - item:
+            name: Crowdin (adopter)
+            homepage_url: https://crowdin.com/
+            logo: crowdin-adopter.svg
+            crunchbase: https://www.crunchbase.com/organization/crowdin
+          - item:
             name: Curio (adopter)
             homepage_url: https://curio.org/
             logo: curio.svg
